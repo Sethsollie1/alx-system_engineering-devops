@@ -1,1 +1,1 @@
-My readme on shell input and output redirections
+My readme on shell input and output redirection
